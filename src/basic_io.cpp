@@ -1,20 +1,16 @@
-
-
-#include <iostream>
-
-using namespace std;
+#include "basic.hpp"
 
 /**
  * @brief
  *
  * cout:  standard output stream
- * <<:    output operator (비트시프트연산자는?)
+ * <<:    output operator
  * >>:    input operator
  *
  * @return int
  */
-int
-main()
+void
+basic_io()
 {
   char var;
 
@@ -31,5 +27,5 @@ main()
   /* output variable */
   cout << var << endl;
 
-  return 0;
+  return;
 }
