@@ -1,0 +1,6 @@
+.vscode
+.DS_Store
+*.txt
+*.log
+.clang-format
+*.out
