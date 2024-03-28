@@ -6,8 +6,6 @@
  * cout:  standard output stream
  * <<:    output operator
  * >>:    input operator
- *
- * @return int
  */
 void
 basic_io()
