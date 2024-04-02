@@ -8,4 +8,13 @@ using namespace std;
 void
 basic_io();
 
+void
+basic_test();
+
+void
+basic_opr();
+
+void
+basic_param();
+
 #endif
